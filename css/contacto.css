@@ -1,0 +1,21 @@
+.menu-redes{
+    background-color: #fca311;
+    width: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.menu-redes>li{
+    display: flex;
+    align-items: center;
+}
+
+.menu-redes>li>a{
+    color:black;
+    padding: 10px;
+}
+
+.menu-redes>li>a:hover{
+    background-color: #f77f00;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.imagen{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px #e63946 solid;
+}
+
+.imagen:hover{
+    border: 4px #457b9d solid;
+    object-fit: contain;
+    background-color: #457b9d;
+}
